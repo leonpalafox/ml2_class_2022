@@ -69,9 +69,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [PCA](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_2.pptx)
-- [ICA](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_3.pptx)
-- [Bagging](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_4.pptx)
+- [PCA](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_2_new.pptx)
+- [ICA](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_3_new.pptx)
+- [Bagging](https://github.com/leonpalafox/ml2_class_2022/blob/master/Slides/UPML22022_4_new.pptx)
 
 
 
