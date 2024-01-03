@@ -47,6 +47,7 @@ La evaluación consistirá en:
   - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
   - Al final necesitan justificar el uso de un modelo de Machine Learning para el caso de uso
   - Necesitan crear un pipeline de principio a fin con procesamiento y muestra de resultados.
+  - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
   - Un examen final. 
